@@ -1,27 +1,24 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "SteamPower",
+  "version": "0.0.1",
+  "description": "A steam launcher",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
+    "url": "git+https://github.com/gardyna/SteamPower"
   },
   "keywords": [
     "Electron",
-    "quick",
+    "steam",
     "start",
-    "tutorial"
+    "launcher"
   ],
-  "author": "GitHub",
+  "author": "Gardyna",
   "license": "CC0-1.0",
-  "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
-  },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "homepage": "https://github.com/gardyna/SteamPower#readme",
   "devDependencies": {
     "electron-prebuilt": "^1.0.1"
   }
